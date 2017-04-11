@@ -192,9 +192,9 @@ public class MainActivity extends AppCompatActivity {
         editor.apply();
     }
 
-//    public void onDestroy() {
+//    public void onStop() {
 //
-//        super.onDestroy();
+//        super.onStop();
 //        SharedPreferences.Editor editor = pref.edit();
 //        editor.clear();
 //        editor.commit();
