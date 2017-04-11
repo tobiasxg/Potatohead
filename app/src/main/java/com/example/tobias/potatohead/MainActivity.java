@@ -11,6 +11,9 @@ import android.widget.ImageView;
 import java.util.HashMap;
 import java.util.Map;
 
+
+// http://stackoverflow.com/questions/38450078/layout-change-when-orientation-changes-in-android-fragments
+// https://www.youtube.com/watch?v=1DOeLy26hOE
 public class MainActivity extends AppCompatActivity {
 
     SharedPreferences pref;
