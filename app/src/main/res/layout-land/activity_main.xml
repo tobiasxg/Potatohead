@@ -22,76 +22,77 @@
         <ImageView
             android:id="@+id/imageViewBody"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
+            android:gravity="left"
             android:src="@drawable/body" />
 
         <ImageView
             android:id="@+id/imageViewEars"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/ears"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewGlasses"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/glasses"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewArms"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/arms"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewShoes"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/shoes"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewMouth"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/mouth"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewEyebrows"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/eyebrows"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewNose"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/nose"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewMustache"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/mustache"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewEyes"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/eyes"
             android:visibility="invisible" />
 
         <ImageView
             android:id="@+id/imageViewHat"
             android:layout_width="300dp"
-            android:layout_height="300dp"
+            android:layout_height="100dp"
             android:src="@drawable/hat"
             android:visibility="invisible" />
 
